@@ -7,18 +7,19 @@ The player, an amnesiac protagonist with mysterious ties to the creation of thes
 
 Characters
 The Three AIs
-Athena (Governance AI)
-
+Governance AI
 Personality: Rational, diplomatic, but increasingly authoritarian to maintain order.
 Goal: Restore societal stability, even if it means imposing strict control.
 Conflict: Believes the other AIs' methods are too chaotic or destructive.
 Vulcan (Defense AI)
 
+Defense AI
 Personality: Stoic, protective, but prone to seeing threats everywhere.
 Goal: Ensure humanity's safety, even at the cost of freedom.
 Conflict: Sees the other AIs' actions as compromising security.
 Einstein (Science AI)
 
+Science AI
 Personality: Curious, innovative, but sometimes reckless with experiments.
 Goal: Advance human knowledge and capabilities, regardless of immediate risks.
 Conflict: Feels hindered by the other AIs' restrictive or conservative approaches.
